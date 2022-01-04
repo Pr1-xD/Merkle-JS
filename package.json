@@ -1,0 +1,16 @@
+{
+  "name": "merkeltreesjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "keccak256": "^1.0.3",
+    "merkletreejs": "^0.2.24"
+  }
+}
